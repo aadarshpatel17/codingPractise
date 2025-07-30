@@ -1,4 +1,4 @@
-//package basics.cses;
+package basics.cses;
 
 import java.util.Scanner;
 
